@@ -1,0 +1,24 @@
+package com.qa.BlackJack;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class AppTest 
+{
+
+	@Test
+	public void test() {
+
+	App bljk = new App();
+
+	assertEquals(10, bljk.blackJack(10, 22));
+	assertEquals(9, bljk.blackJack(22, 9));
+	assertEquals(0, bljk.blackJack(22, 22));
+	assertEquals(10, bljk.blackJack(10, 7));
+	assertEquals(19, bljk.blackJack(1, 19));
+
+	}
+
+	
+}

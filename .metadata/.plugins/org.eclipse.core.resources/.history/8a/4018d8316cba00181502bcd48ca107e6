@@ -1,0 +1,40 @@
+package com.qa.BlackJack;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+//		System.out.println(blackJack(10,22));
+//		System.out.println(blackJack(22,9));
+//		System.out.println(blackJack(22,22));
+//		System.out.println(blackJack(10,7));
+//		System.out.println(blackJack(1,19));
+    }
+    
+	public static int blackJack(int a, int b) {
+	int c=0;	
+////		if ( (21-a) < (21-b) ) { 
+////		c=a;
+////		}
+//		else if ( (21-a) > (21-b) ) { 
+//		c=b;
+//		}
+////		else if(a==b) {
+////		c=0;
+////		}
+//		else if (a>21 && b>21) {  
+//		c=0;
+//		}
+//		else if (a>21) {  
+//		c=b;
+//		}
+//		else if (b>21) {  
+//		c=a;
+//		}
+//		return c;
+//	}
+}
