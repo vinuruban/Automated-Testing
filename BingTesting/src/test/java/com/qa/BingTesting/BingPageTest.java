@@ -28,8 +28,7 @@ public class BingPageTest {
 		BingSearchPage searchPage = PageFactory.initElements(driver, BingSearchPage.class);
 		page.searchFor("Selenium");
 		Thread.sleep(1000);
-		WebElement checkElement = driver.findElement(By.xpath("//*[@id=\"b_context\"]/li[1]/div/div[1]/h2"));
-		assertEquals("Selenium", checkElement.getText());
+		assertEquals("Selenium", searchPage.getheading().getText());
 	}
 	
 	@After
