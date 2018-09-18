@@ -26,17 +26,21 @@ public class DemoAddAndLoginTesting {
 	
 	@Test
 	public void bingSearchBox() throws InterruptedException {
+		
 		driver.get("http://thedemosite.co.uk/");
+		
 		DemoHomePage homePage = PageFactory.initElements(driver, DemoHomePage.class); //initializing things from the page
 		DemoAddPage addPage = PageFactory.initElements(driver, DemoAddPage.class);
 		DemoLoginPage loginPage = PageFactory.initElements(driver, DemoLoginPage.class);
-		homePage.clickAddPage();
+		
+		homePage.clickAddPage(); //from homepage>add account
 		Thread.sleep(1000);
 		addPage.enterInUser("abcabc");
 		addPage.enterInPass("abcabc");
 		assertEquals("The username:", addPage.getPostSaving().getText());
 		Thread.sleep(1000);
-		addPage.clickLoginPage();
+		
+		addPage.clickLoginPage(); //from addpage>login
 		Thread.sleep(1000);
 		loginPage.enterInUser("abcabc");
 		loginPage.enterInPass("abcabc");
