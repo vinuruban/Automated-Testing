@@ -1,16 +1,10 @@
 INDEX VERSION 1.130+C:\Users\Admin\Desktop\Automated-Testing\.metadata\.plugins\org.eclipse.jdt.core
-185367178.index
 360640458.index
 366940422.index
 2736318078.index
-4167879519.index
-3232179652.index
-674321937.index
 1828026965.index
-2729286188.index
 2606147196.index
 3711492428.index
-945786464.index
 2569429538.index
 1940400898.index
 1405973958.index
