@@ -2172,3 +2172,115 @@ org.eclipse.core.runtime.CoreException: Launch configuration App references non-
 2018-09-19 12:18:43,163 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\main\resources
 2018-09-19 12:18:43,163 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-09-19 12:18:43,164 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\test\resources
+2018-09-19 12:38:24,766 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 12:38:24,766 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoIindependent\src\main\resources
+2018-09-19 12:38:24,766 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 12:38:24,767 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoIindependent\src\test\resources
+2018-09-19 12:38:24,770 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 12:38:24,770 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Shopping\src\main\resources
+2018-09-19 12:38:24,770 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 12:38:24,770 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\Shopping\src\test\resources
+2018-09-19 12:38:45,919 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 12:38:45,919 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\main\resources
+2018-09-19 12:38:45,920 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 12:38:45,920 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\test\resources
+2018-09-19 12:38:55,593 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 12:38:55,593 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\main\resources
+2018-09-19 12:38:55,594 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 12:38:55,594 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\test\resources
+2018-09-19 12:45:05,109 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 12:45:05,109 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\main\resources
+2018-09-19 12:45:05,110 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 12:45:05,110 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\test\resources
+2018-09-19 12:45:34,028 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 12:45:34,028 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\main\resources
+2018-09-19 12:45:34,028 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 12:45:34,029 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\test\resources
+2018-09-19 12:47:06,978 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 12:47:06,978 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\main\resources
+2018-09-19 12:47:06,978 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 12:47:06,978 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\test\resources
+2018-09-19 12:51:40,827 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 12:51:40,828 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\main\resources
+2018-09-19 12:51:40,828 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 12:51:40,828 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\test\resources
+2018-09-19 12:53:23,827 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 12:53:23,827 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\main\resources
+2018-09-19 12:53:23,827 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 12:53:23,827 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\test\resources
+2018-09-19 12:53:30,484 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 12:53:30,484 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\main\resources
+2018-09-19 12:53:30,484 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 12:53:30,484 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\test\resources
+2018-09-19 12:54:31,110 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 12:54:31,110 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\main\resources
+2018-09-19 12:54:31,110 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 12:54:31,110 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\test\resources
+2018-09-19 13:48:04,099 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 13:48:04,099 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\main\resources
+2018-09-19 13:48:04,100 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 13:48:04,100 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\test\resources
+2018-09-19 13:48:30,591 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 13:48:30,591 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\main\resources
+2018-09-19 13:48:30,592 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 13:48:30,592 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\test\resources
+2018-09-19 13:48:50,658 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 13:48:50,658 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\main\resources
+2018-09-19 13:48:50,659 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 13:48:50,659 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\test\resources
+2018-09-19 13:49:03,011 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 13:49:03,011 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\main\resources
+2018-09-19 13:49:03,011 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 13:49:03,011 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\test\resources
+2018-09-19 13:49:12,711 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 13:49:12,711 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\main\resources
+2018-09-19 13:49:12,712 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 13:49:12,712 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\test\resources
+2018-09-19 13:55:39,334 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 13:55:39,334 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\main\resources
+2018-09-19 13:55:39,335 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 13:55:39,335 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\test\resources
+2018-09-19 13:55:55,049 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 13:55:55,049 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\main\resources
+2018-09-19 13:55:55,050 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 13:55:55,050 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\test\resources
+2018-09-19 13:56:04,818 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 13:56:04,819 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\main\resources
+2018-09-19 13:56:04,819 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 13:56:04,820 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\test\resources
+2018-09-19 13:56:23,510 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 13:56:23,510 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\main\resources
+2018-09-19 13:56:23,511 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 13:56:23,511 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\test\resources
+2018-09-19 14:00:40,498 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 14:00:40,499 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\main\resources
+2018-09-19 14:00:40,499 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 14:00:40,499 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\test\resources
+2018-09-19 14:01:07,042 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 14:01:07,043 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\main\resources
+2018-09-19 14:01:07,043 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 14:01:07,043 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\test\resources
+2018-09-19 14:04:38,647 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 14:04:38,647 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\main\resources
+2018-09-19 14:04:38,647 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 14:04:38,647 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\test\resources
+2018-09-19 14:07:06,113 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 14:07:06,113 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\main\resources
+2018-09-19 14:07:06,114 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 14:07:06,114 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\test\resources
+2018-09-19 14:18:07,890 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 14:18:07,890 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\main\resources
+2018-09-19 14:18:07,890 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 14:18:07,890 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\test\resources
+2018-09-19 14:24:21,747 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 14:24:21,747 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\main\resources
+2018-09-19 14:24:21,748 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 14:24:21,748 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\test\resources
+2018-09-19 14:30:19,294 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 14:30:19,294 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\main\resources
+2018-09-19 14:30:19,294 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 14:30:19,294 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\test\resources
+2018-09-19 14:43:38,641 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 14:43:38,641 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\main\resources
+2018-09-19 14:43:38,641 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-19 14:43:38,641 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\Automated-Testing\DemoReportingDDT\src\test\resources
