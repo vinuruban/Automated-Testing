@@ -64,6 +64,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.qa.Reporting"/>
 			<item value="com.qa.Demo"/>
 			<item value="com.qa.BingTesting"/>
 			<item value="com.qa.BlackJack"/>
@@ -73,6 +74,7 @@
 			<item value="com.qa"/>
 		</list>
 		<list key="artifactId">
+			<item value="Reporting"/>
 			<item value="Demo"/>
 			<item value="BingTesting"/>
 			<item value="BlackJack"/>
