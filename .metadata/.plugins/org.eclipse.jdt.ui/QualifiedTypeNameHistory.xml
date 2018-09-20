@@ -19,7 +19,6 @@
 <fullyQualifiedTypeName name="java.awt.RenderingHints.Key"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.support.ui.WebDriverWait"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.support.ui.ExpectedConditions"/>
-<fullyQualifiedTypeName name="com.relevantcodes.extentreports.ExtentReports"/>
 <fullyQualifiedTypeName name="com.relevantcodes.extentreports.ExtentTest"/>
 <fullyQualifiedTypeName name="org.junit.BeforeClass"/>
 <fullyQualifiedTypeName name="org.junit.AfterClass"/>
@@ -32,7 +31,8 @@
 <fullyQualifiedTypeName name="org.apache.poi.ss.usermodel.Row.MissingCellPolicy"/>
 <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
 <fullyQualifiedTypeName name="org.junit.runner.RunWith"/>
-<fullyQualifiedTypeName name="cucumber.api.CucumberOptions"/>
 <fullyQualifiedTypeName name="cucumber.api.junit.Cucumber"/>
+<fullyQualifiedTypeName name="cucumber.api.CucumberOptions"/>
 <fullyQualifiedTypeName name="cucumber.api.java.en.Given"/>
+<fullyQualifiedTypeName name="com.relevantcodes.extentreports.ExtentReports"/>
 </qualifiedTypeNameHistroy>
