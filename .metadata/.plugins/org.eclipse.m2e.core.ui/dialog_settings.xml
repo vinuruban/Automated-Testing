@@ -50,6 +50,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Admin\Desktop\Automated-Testing\BingCucumber"/>
 			<item value="C:\Users\Admin\Desktop\Selenium\BingTesting"/>
 			<item value="C:\Users\Admin\Desktop\Selenium\Selenium"/>
 		</list>
@@ -64,6 +65,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.qa.Jenkins"/>
 			<item value="com.qa.BingCucumber"/>
 			<item value="com.qa.Reporting"/>
 			<item value="com.qa.Demo"/>
@@ -75,6 +77,7 @@
 			<item value="com.qa"/>
 		</list>
 		<list key="artifactId">
+			<item value="Jenkins"/>
 			<item value="BingCucumber"/>
 			<item value="Reporting"/>
 			<item value="Demo"/>

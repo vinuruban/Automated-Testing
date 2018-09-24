@@ -7,10 +7,6 @@ public class Constants {
 	public static final String loginURL = "http://localhost:8080";
 	
 	public static final String websiteURL = "http://localhost:8080/securityRealm/";
-
-//	public static final String menuURL = "http://www.practiceselenium.com/menu.html";
-
-//	public static final String checkURL = "http://www.practiceselenium.com/check-out.html";
 	
 	public static final String pathTestData = "C:\\Users\\Admin\\Desktop\\";
 
