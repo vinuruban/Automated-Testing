@@ -1,4 +1,4 @@
-package com.qa.NESTEDPOSTPerson;
+package com.qa.NESTEDPOSTPersonCUCUMBER;
 
 
 import static org.junit.Assert.*;
@@ -8,7 +8,7 @@ import static org.junit.Assert.*;
 import org.junit.*;
 import org.junit.Test;
 
-import com.qa.NESTEDPOSTPerson.Constants;
+import com.qa.NESTEDPOSTPersonCUCUMBER.Constants;
 
 import static io.restassured.RestAssured.*;
 

@@ -1,4 +1,4 @@
-package com.qa.NESTEDPOSTPerson;
+package com.qa.NESTEDPOSTPersonCUCUMBER;
 
 //import com.relevantcodes.extentreports.ExtentReports;
 
@@ -18,7 +18,7 @@ public class Constants {
 
 	public static final String reportLocation = "C:\\Users\\Admin\\Desktop\\sh\\RestCucumber.html";
 	
-	public static final String featureFileLocation = "C:\\Users\\Admin\\Desktop\\Automated-Testing\\RESTAssuredCucumber\\src\\test\\java\\intro.feature";
+	public static final String featureFileLocation = "C:\\Users\\Admin\\Desktop\\Automated-Testing\\NESTEDPOSTPersonCUCUMBER\\src\\test\\java\\swagger.feature";
 	
 	public static int count = 0;
 }
