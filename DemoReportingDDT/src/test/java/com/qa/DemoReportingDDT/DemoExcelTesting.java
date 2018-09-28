@@ -37,6 +37,7 @@ public class DemoExcelTesting {
 		ExcelUtils.setExcelFile(Constants.pathTestData + Constants.fileTestData, 0);
 		System.setProperty(Constants.driverType, Constants.driverLocation);
 		driver = new ChromeDriver();
+		driver.manage().window().maximize();
 	}
 	
 	@Test
